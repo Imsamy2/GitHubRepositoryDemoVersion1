@@ -6,7 +6,7 @@ public class Test2 {
 
 		String hungry = "yes";
 
-		if (hungry == "yes") {
+		if (hungry == "yes"|| hungry=="y") {
 			System.out.println("eat something");
 		} else {
 			System.out.println("do work");
